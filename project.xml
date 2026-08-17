@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+    <app title="Reverse Engine" file="MainEngine" main="Main" version="1.0.0" company="Reversal Funk" />
+    <window width="1280" height="720" fps="60" background="#000000" hardware="true" vsync="true" />
+
+    <source path="source" />
+    <assets path="assets" />
+
+    <haxelib name="flixel" />
+    <haxelib name="hscript" />
+
+    <target name="windows" />
+</project>
