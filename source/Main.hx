@@ -1,1 +1,1 @@
-Main.hx = State.init placeholder code as of rn
+Class Main = Main.hx
